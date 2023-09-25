@@ -8,7 +8,7 @@ namespace webapi.event_.tarde.Repositories
     {
         private readonly EventContext _eventContext;
 
-        public ITipoEventoRepository()
+        public TipoEventoRepository()
         {
             _eventContext = new EventContext();
         }
