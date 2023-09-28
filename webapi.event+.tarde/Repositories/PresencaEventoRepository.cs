@@ -1,7 +1,8 @@
 ﻿using webapi.event_.tarde.Contexts;
 using webapi.event_.tarde.Domains;
+using webapi.event_.tarde.Interfaces;
 
-namespace webapi.event_.tarde.Interfaces
+namespace webapi.event_.tarde.Repositories
 {
     public class PresencaEventoRepository : IPresencaEventoRepository
     {

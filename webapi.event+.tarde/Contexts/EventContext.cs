@@ -1,4 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿    using Microsoft.EntityFrameworkCore;
 using webapi.event_.tarde.Domains;
 
 namespace webapi.event_.tarde.Contexts
